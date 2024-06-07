@@ -1,5 +1,3 @@
-# Hello, I'm Ai Mousika! 👋
-
 <!--Welcome to my GitHub profile! I'm an aspiring software developer with interests in front-end, back-end, and full-stack development. I'm continually learning and improving my skills in this exciting field.-->
 
 <h2 align="center">About Me 👨‍💻</h2>
@@ -43,9 +41,7 @@ Here are some of my projects:
 
 <!--
 **bmyaye/bmyaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
