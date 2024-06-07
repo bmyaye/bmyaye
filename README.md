@@ -28,7 +28,7 @@
 
 Here are some of my projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bmyaye&repo=Located-Me-App)](https://github.com/bmyaye/Located-Me-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bmyaye&repo=LocatedMe-App-Internship-Summer2024)](https://github.com/bmyaye/LocatedMe-App-Internship-Summer2024)
 
 <h5 align="center">
   <a href="https://github.com/bmyaye?tab=repositories" title="Show All Repositories">See More 🔍</a>
